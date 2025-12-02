@@ -1,0 +1,45 @@
+PROIECT: Mini-robot controlat prin Bluetooth
+
+1. Scopul proiectului
+Scopul proiectului a fost dezvoltarea unui robot mobil controlat prin Bluetooth de pe telefonul mobil, utilizând platforma Basecamp pentru organizarea sarcinilor, gestionarea documentelor și coordonarea echipei.
+
+2. Structura echipei
+
+Coordonator tehnic:
+Programator Arduino:
+Designer mecanic:
+Tester:
+Documentarist:
+Comunicator:
+
+3. Etapele proiectului
+Achiziționarea componentelor electronice și mecanice
+Montarea robotului pe șasiu
+Configurarea modulului Bluetooth HC-05
+Programarea comenzilor de direcție în Arduino
+Crearea aplicației mobile de control
+Testarea conexiunii și a mobilității
+Realizarea documentației tehnice, foto și video
+Încărcarea materialelor în Basecamp
+
+4. Utilizarea platformei Basecamp
+
+To-do Lists: gestionarea sarcinilor tehnice pe etape
+
+Message Board: comunicare internă, anunțuri și update-uri
+Docs & Files: încărcarea schemelor electrice, codului .ino, imaginilor și videoclipurilor
+Schedule: programarea întâlnirilor, sesiunilor de testare și a demonstrației finale
+
+5. Capturi de ecran
+(se vor include ulterior: To-do List, Message Board, Docs & Files, Schedule)
+
+6. Analiza colaborării
+Basecamp a ajutat echipa să:
+distribuie responsabilități clar
+urmărească progresul în timp real
+centralizeze documentația tehnică
+reducă timpul pierdut în comunicare
+structureze etapele într-un mod profesionist
+
+7. Concluzii
+Proiectul a demonstrat că Basecamp este o unealtă eficientă pentru managementul proiectelor tehnice universitare, facilitând colaborarea și organizarea echipei. Robotul realizat a funcționat conform cerințelor, iar procesul de lucru a fost urmărit transparent și eficient.
